@@ -132,10 +132,10 @@ body.open {
 
 /* Close Button */
 .close {
-  -webkit-transform: translateY(-100%) rotate(-50deg);
-  -moz-transform: translateY(-100%) rotate(-50deg);
-  -o-transform: translateY(-100%) rotate(-50deg);
-  transform: translateY(-100%) rotate(-50deg);
+  -webkit-transform: translateY(-200%) rotate(-50deg);
+  -moz-transform: translateY(-200%) rotate(-50deg);
+  -o-transform: translateY(-200%) rotate(-50deg);
+  transform: translateY(-200%) rotate(-50deg);
   opacity: 0;
   -webkit-transition: opacity .8s cubic-bezier(0.19, 1, 0.22, 1);
   -moz-transition: opacity .8s cubic-bezier(0.19, 1, 0.22, 1);

@@ -34,7 +34,7 @@ $(document).ready(function(){
       }, 450);
       setTimeout(function(){
         star.css('opacity', '0').css('z-index', '0').css('transform', 'translateX(-100%)');
-        close.css('transform', 'translateY(-100%) rotate(30deg)');
+        close.css('transform', 'translateY(-200%) rotate(30deg)');
       }, 800);
     } else {
       close.css('transform', 'translateY(0) rotate(30deg)');
