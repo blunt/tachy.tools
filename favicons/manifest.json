@@ -1,0 +1,13 @@
+{
+    "name": "tachy.tools",
+    "icons": [
+        {
+            "src": "favicons/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#4522ff",
+    "background_color": "#4522ff",
+    "display": "standalone"
+}
