@@ -8,6 +8,16 @@ body.open {
   overflow: hidden;
 }
 
+/* Selection */
+::selection {
+  background: #4522FF;
+  color: #fff;
+}
+::-moz-selection {
+  background: #4522FF;
+  color: #fff;
+}
+
 .link {
   -webkit-transition: all .0s ease-in !important;
   -moz-transition: all .0s ease-in !important;
